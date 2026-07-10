@@ -1,5 +1,4 @@
-# Build output
-build/
+# Build output (build/ incluido porque la profesora lo solicita para análisis)
 dist/
 
 # NetBeans
