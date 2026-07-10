@@ -1,0 +1,23 @@
+# Build output
+build/
+dist/
+
+# NetBeans
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# SonarQube
+.scannerwork/
+
+# IDE
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
